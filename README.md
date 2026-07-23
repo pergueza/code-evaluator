@@ -33,7 +33,3 @@ Solution 2:
 
 Recommendation:
 Solution 2 is cleaner and more concise.
-
-
-### Note
-This project was developed as a demonstrative exercise aligned with the responsibilities of the Coding Expert - LATAM role at Outlier.ai.
