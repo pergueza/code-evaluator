@@ -1,6 +1,6 @@
 # Code Evaluator
 
-This is a simple Python tool to evaluate and compare two solution scripts that address the same problem.
+Python tool that compares multiple solutions to the same problem across execution time, code length and style metrics, then generates a structured English report summarizing the strengths and weaknesses of each one. An automated quality-control pipeline applied to code.
 
 It compares:
 - Execution time
